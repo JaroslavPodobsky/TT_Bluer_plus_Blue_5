@@ -3,3 +3,6 @@ Tento držák extruderu je vybaven integrovanými kanály pro bezpečné vedení
 EN:
 
 This extruder mount features integrated channels for safe cable management. During installation, it's essential to exercise extreme caution to prevent hot components from coming into contact with plastic parts. Printing with ASA or another material with higher heat resistance is recommended. To increase safety, a silicone sock must always be installed on the hotend's heat block.
+
+
+Ostatní díly (Bltouch mount, fanduct)  používám tyto: https://www.thingiverse.com/thing:4893522
